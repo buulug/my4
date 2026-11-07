@@ -1,0 +1,8 @@
+{
+  "name": "Remix 4life AI",
+  "description": "4life AI - The universal intelligence engineered to answer every question across science, life, philosophy, code, and everyday wonders with live search grounding and voice dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
